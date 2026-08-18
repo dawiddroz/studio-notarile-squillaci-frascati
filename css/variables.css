@@ -1,0 +1,31 @@
+/* ============================================================
+   Studio Notarile Squillaci — design tokens
+   Concept: "Lo studio dal 2002" — istituzionale, caldo, storico
+   ============================================================ */
+:root {
+  /* Palette */
+  --paper:        #F5F1EA;   /* avorio */
+  --paper-soft:   #EFE9E0;   /* avorio scuro (hover, sfondi) */
+  --card:         #FCFAF5;   /* card su avorio */
+  --ink:          #34273E;   /* viola scuro */
+  --primary:      #4A3A57;   /* viola medio */
+  --primary-soft: #EFEAF2;   /* lavanda chiarissima */
+  --accent:       #A9A29A;   /* argento */
+  --accent-strong:#7C746C;   /* argento scurito (testo su chiaro) */
+  --deep:         #241B2B;   /* viola quasi nero */
+  --line:         #E4DDD2;   /* bordi */
+
+  /* Tipografia */
+  --font-display: 'Newsreader', Georgia, 'Times New Roman', serif;
+  --font-body:    'Public Sans', 'Segoe UI', system-ui, -apple-system, sans-serif;
+
+  /* Layout */
+  --container: 1180px;
+  --header-h: 72px;
+  --radius: 6px;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+
+  /* Ombre */
+  --shadow-sm: 0 1px 3px rgba(36, 27, 43, 0.08);
+  --shadow-md: 0 14px 34px rgba(36, 27, 43, 0.14);
+}
