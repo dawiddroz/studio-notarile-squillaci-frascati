@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.studionotarilesquillaci.it/sitemap.xml
+Sitemap: https://dawiddroz.github.io/studio-notarile-squillaci-frascati/sitemap.xml
